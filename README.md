@@ -1,5 +1,7 @@
 # RAW_recipes.csv
-## ※파일이 100mb 이상으로 너무 커 Github에 올라가지 않는 문제가 있어 별도의 파일로 제출하였습니다.
+**※RAW_recipes.csv 데이터셋 파일이 너무 커(약 280mb) Github에 업로드하기가 어려운 문제가 있었습니다.(100mb 이하 파일만 업로드 가능)**  
+**이에 Git LFS를 사용하였으나 이 경우 코드 저장소를 압축(zip)하여 다운로드하면 csv파일이 제대로 다운로드 되지 않는 문제가 있어 불가피하게 별도 파일 링크와 함께 제출합니다.**
+- RAW_recipes.csv 데이터셋 다운로드 링크: https://drive.google.com/file/d/1RQFpo6rnUJu0FFPTVbgU1ZOWNodxh4uU/view?usp=sharing
 - 레시피에 대한 레시피 이름, 조리 시간, 태그, 영양소, 설명, 재료 등이 정리된 데이터
 - 출처: Kaggle Food.com Recipe Dataset (https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions)
 
